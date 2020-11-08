@@ -1,0 +1,60 @@
+body {
+  font-family: system-ui;
+  background: #D3D3D3;
+  color: black;}
+#title{
+  text-align: center;
+}
+#subtitle{
+  text-align: center;
+  font-size: 15px;
+  font-family: Times New Roman;
+}
+#img-div{
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+    background:white;
+	padding-bottom: 30px;
+}
+#img-div img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+    width:80%;
+  background:white;
+ }
+figcaption {
+  margin-left:auto;
+  margin-right:auto;
+  width:75%;
+  padding-top: 15px;
+}
+h3{
+  text-align: center;
+  padding-top: 10px;
+}
+#tribute-info{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+   width:80%;
+
+}
+#quote{
+   width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  font-weight:1.5em;
+}
+#wikiLink {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:60%;
+  font-size:1.75em;
+  font-family:sans-serif;
+}
+.textCenter {
+  text-align:center;
+}
